@@ -1,8 +1,8 @@
 # docker-node-demo
 
-官方文档：https://docs.docker.com/get-started/
-中文文档：https://yeasy.gitbooks.io/docker_practice/
-docker store: https://hub.docker.com/
+官方文档：https://docs.docker.com/get-started/ <br/>
+中文文档：https://yeasy.gitbooks.io/docker_practice/ <br/>
+docker store: https://hub.docker.com/ <br/>
 
 ### 配置Dockerfile
 
