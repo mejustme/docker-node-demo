@@ -1,0 +1,22 @@
+{
+  "name": "docker-node-demo",
+  "version": "1.0.0",
+  "description": "docker node demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mejustme/docker-node-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mejustme/docker-node-demo/issues"
+  },
+  "homepage": "https://github.com/mejustme/docker-node-demo#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
